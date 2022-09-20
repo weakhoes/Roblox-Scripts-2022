@@ -1,5 +1,5 @@
---Working!
---loadstring(game:HttpGet(""))()
+--Working
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/KryptoOnn/Update/main/Scripts/FE%20Walk%20On%20Walls%20(R6%20%26%20R15"))()
 
 local _p = game:WaitForChild("Players")
 local _plr = _p.ChildAdded:Wait()
