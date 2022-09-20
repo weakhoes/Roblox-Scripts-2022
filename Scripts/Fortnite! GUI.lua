@@ -1,4 +1,4 @@
---Working!
+--Working
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/KryptoOnn/Update/main/Scripts/Fortnite!%20GUI.lua"))()
 
 local lplr = game.Players.LocalPlayer
