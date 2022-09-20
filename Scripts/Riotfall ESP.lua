@@ -1,3 +1,6 @@
+--local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/KryptoOnn/Roblox-UI-Libs/main/Rb%20Script/Riotfall%20ESP.txt"))()
+--ESP:Toggle(true)
+
 --Settings--
 local ESP = {
     Enabled = false,
