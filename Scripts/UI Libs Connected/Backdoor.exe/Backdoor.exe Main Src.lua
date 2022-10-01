@@ -44,8 +44,8 @@ if genv.backdoorexe then
 end
 
 --// UI \\--
-local screenGui, uiRequire = loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/v8/src/ui.lua"))()
-local alertLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/uniquadev/GuiToLuaConverter/main/PluginPlace/src/alerts.lua"))()
+local screenGui, uiRequire = loadstring(game:HttpGet("https://raw.githubusercontent.com/drillygzzly/Roblox-Scripts-2022/main/Scripts/UI%20Libs%20Connected/Backdoor.exe/Backdoor.exe%20UI%20Lib.lua"))()
+local alertLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/drillygzzly/Roblox-Scripts-2022/main/Scripts/UI%20Libs%20Connected/Backdoor.exe/Backdoor.exe%20Alert%20Lib.lua"))()
 
 local ui = uiRequire(screenGui.main);
 local config = ui.config;
