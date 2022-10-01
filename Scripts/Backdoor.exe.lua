@@ -1,3 +1,5 @@
+-- Working
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/drillygzzly/Roblox-Scripts-2022/main/Scripts/Backdoor.exe.lua"))()
 game.StarterGui:SetCore(
 		"SendNotification",
 		{
