@@ -1,3 +1,7 @@
+--Working
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/drillygzzly/Update/main/Scripts/Doors%20V4"))()
+
+
 local a=game:GetService'HttpService'local b=game:GetService'Players'local c=game
 :GetService'ProximityPromptService'local d=game:GetService'ReplicatedStorage'
 local e=game:GetService'RunService'local f=game:GetService'SoundService'local g=
